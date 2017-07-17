@@ -1,0 +1,15 @@
+$main-background-color: #eeeeee;
+
+body, html{
+    height:100%;
+    
+    width:100%;
+    background:$main-background-color;
+	canvas{
+    
+		margin:0;
+		width:100%;
+		height:100%;
+	}
+	
+}

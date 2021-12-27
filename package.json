@@ -10,8 +10,8 @@
   "devDependencies": {},
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-	"start": "live-server",
-	"sass": "node-sass css/main.scss css/main.css -w"
+    "start": "live-server",
+    "sass": "node-sass css/main.scss css/main.css -w"
   },
   "keywords": [
     "snake",

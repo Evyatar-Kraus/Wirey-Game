@@ -1,8 +1,13 @@
+/* colors */
+/* styles */
 body, html {
   height: 100%;
   width: 100%;
   background: #eeeeee; }
+  body h1, body h3, body p, html h1, html h3, html p {
+    color: #111111;
+    text-align: center; }
   body canvas, html canvas {
     margin: 0;
     width: 100%;
-    height: 100%; }
+    height: 80vh; }

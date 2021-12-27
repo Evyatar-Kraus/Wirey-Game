@@ -4,13 +4,13 @@
   "description": "snake game",
   "main": "index.html",
   "dependencies": {
-    "live-server": "^1.2.0",
-    "node-sass": "^4.5.3"
+    "http-server": "^14.0.0",
+    "node-sass": "^7.0.1"
   },
   "devDependencies": {},
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "live-server",
+    "start": "npx http-server",
     "sass": "node-sass css/main.scss css/main.css -w"
   },
   "keywords": [

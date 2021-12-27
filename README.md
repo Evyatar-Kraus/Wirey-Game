@@ -1,9 +1,10 @@
-# Wirey game 
+# Wirey game
 ### Made with Paper.js
 
 You control a flexible wire.
-Collect the the food without touching the obstacles!
-The Wire becomes longer every level.
+Collect the the food - the orange circles.
+Avoid touching touching the obstacles - the red squares and the board's borders!
+The Wire will grow in length every level.
 
 Install Instructions:
 ```

@@ -1,9 +1,12 @@
 # Wirey game 
 ### Made with Paper.js
 
+You control a flexible wire.
 Collect the the food without touching the obstacles!
-The Wire becomes longer on every level.
+The Wire becomes longer every level.
 
-Install instructions: 
+Install Instructions:
+```
 npm install
 npm start
+```

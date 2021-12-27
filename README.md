@@ -1,11 +1,9 @@
-# wirey-game-demo
+# Wirey game 
+### Made with Paper.js
 
-made with paper.js 
+Collect the the food without touching the obstacles!
+The Wire becomes longer on every level.
 
-do 
-
+Install instructions: 
 npm install
-
-and then start the game with 
-
 npm start

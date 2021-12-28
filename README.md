@@ -11,3 +11,6 @@ Install Instructions:
 npm install
 npm start
 ```
+
+Or play here:
+https://evyatar-kraus.github.io/Wirey-Game/
